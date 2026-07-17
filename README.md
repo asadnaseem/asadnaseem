@@ -4,13 +4,10 @@
   2. Commit this file as README.md in a repo named EXACTLY "asadnaseem"
      (github.com/asadnaseem/asadnaseem) — that's the only repo GitHub turns
      into a profile page. You already have this repo created.
-  3. Still placeholder: ResearchGate and Portfolio links (both "#") — swap
-     those in whenever you have them, or delete those two badges.
-  4. Swap the Featured Projects table for your real repos (or use the pin-card
-     URL noted just below that table).
-  5. Optional but recommended: add snake.yml to .github/workflows/ in that repo
-     to activate the animated snake contribution graph — see the file provided
-     alongside this one.
+  3. Still placeholder: Portfolio link ("#") — swap in whenever you have one,
+     or delete that badge.
+  4. Featured Projects has no repos pinned yet — once you push one, generate
+     a live pin-card for it with the URL noted in that section.
 -->
 
 <div align="center">
@@ -23,7 +20,6 @@
 
 <a href="https://www.linkedin.com/in/asad-n-872aa6284/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:asadnaseem10k@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="#"><img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white"/></a>
 <a href="#"><img src="https://img.shields.io/badge/Portfolio-38BDF8?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
 
 </div>
@@ -153,28 +149,6 @@ I'm an engineer working across **robotics**, **industrial automation**, and **wi
 
 <br/>
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=asadnaseem&theme=tokyonight&no-frame=true&row=1&column=7"/>
-</p>
-
-<br/>
-
-## 🐍 Contribution Snake
-
-<p align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/asadnaseem/asadnaseem/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/asadnaseem/asadnaseem/output/github-contribution-grid-snake.svg"/>
-  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/asadnaseem/asadnaseem/output/github-contribution-grid-snake.svg" width="100%"/>
-</picture>
-</p>
-
-<p align="center"><sub>Appears once the <code>snake.yml</code> workflow (provided alongside this file) has run at least once — see setup notes.</sub></p>
-
-<br/>
-
 ## 🚀 Featured Projects
 
 <table>
@@ -225,8 +199,6 @@ I'm an engineer working across **robotics**, **industrial automation**, and **wi
 </tr>
 </table>
 
-<p align="center"><sub>Replace with your real repos — or auto-generate a card per repo with:<br/><code>https://github-stats-extended.vercel.app/api/pin/?username=asadnaseem&repo=REPO-NAME&theme=tokyonight</code></sub></p>
-
 <br/>
 
 ## 📫 Connect With Me
@@ -234,11 +206,6 @@ I'm an engineer working across **robotics**, **industrial automation**, and **wi
 <p align="center">
 <a href="https://www.linkedin.com/in/asad-n-872aa6284/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:asadnaseem10k@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="#"><img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white"/></a>
-</p>
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=asadnaseem&color=38BDF8&style=for-the-badge&label=PROFILE+VIEWS"/>
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=120&section=footer" width="100%"/>
